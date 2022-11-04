@@ -31,7 +31,7 @@ O projeto demonstra o calendário de jogos da Copa do Mundo de 2022.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/bo6jHsLpzsemVwjMrCv3BX/Calend%C3%A1rio-de-Jogos-(Community)?node-id=0%3A1/duplicate>). É necessário ter uma conta no [Figma] (https://www.figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/bo6jHsLpzsemVwjMrCv3BX/Calend%C3%A1rio-de-Jogos-(Community)?node-id=0%3A1/duplicate>). É necessário ter uma conta no [Figma](https://www.figma.com) para acessá-lo.
 
 ## ⚡ Contato
 
